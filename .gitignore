@@ -1,0 +1,16 @@
+resultsPlots3.ipynb
+resultsPlotsLoan.ipynb
+resultsPlotsCredit.ipynb
+resultsPlotsRF.ipynb
+models/
+original_data/bank-additional/
+original_data/credit_default/
+original_data/credit_fraud/
+original_data/housing/
+original_data/IKNL/
+original_data/intrusion/
+pickle_data/
+results/
+results_agg/
+temp.r
+mainTemp.ipynb
